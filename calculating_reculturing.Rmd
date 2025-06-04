@@ -1,0 +1,42 @@
+---
+title: "Calculating plates needed for culture collection processing"
+author: "Laura Bogar"
+date: "2025-06-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+We need to reculture all of our fungi and make sure everything we want to keep is represented in cold storage.
+
+At the end of this process, I want 3 established plates of every strain in our 4C incubator.
+
+When available, we will culture directly from the plates that have been stored at 4C to keep the number of transfers lower than if we were working from the room temperature or 25C plates. However, some of these plates have never been in cold storage; these we will culture from whichever condition is available.
+
+```{r packages and data}
+library("tidyverse")
+
+index = read_csv("data/Bogar Lab Culture Collection Index - Index.csv")
+cold = read_csv("data/Bogar Lab Culture Collection Index - Index.csv")
+warm = read_csv("data/warm_storage.csv")
+notcoldyet = read_csv("data/not_represented_in_cold_storage.csv")
+```
+Anna very kindly put together the list of strains that are not yet in cold storage. We need to reculture all of these, and everything that is currently cold.
+
+We ALSO need to extract DNA from all the cultures that currently lack a molecular ID. We should not have any of these, but we seem to have lost track of the sequence data for a bunch of fungi.
+
+```{r plates needed}
+coldEMF = subset(cold, cold$`Ectomycorhizzal?` == "Y" | cold$`Ectomycorhizzal?` == "M")
+length(unique(coldEMF$`Strain ID`))
+cold_toreculture = sort(unique(coldEMF$`Strain ID`)) 
+
+```
+We have 59 EMF strains to reculture
+
+```{r DNA extractions needed}
+
+
+```
+
