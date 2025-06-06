@@ -1,0 +1,83 @@
+Strain ID,Desired Media,Collection Date,Collector,Location Collected,Field ID (if applicable),Molecular ID,Percent ID,Link to BLAST Results,Link to Sequence Data .ab1,Notes,Date Sequenced,Ectomycorhizzal?
+Amamu,MMN,2019,Denny Wang,"Bigelow State Park, Connecticut, USA",NA,Amanita muscaria,94.92%,230415 Culture Collection Sequencing,Edited seqs,"Pringle lab calls it ""Bigelow - 2""",230415,Y
+Amamu 3,MMN,2019,Denny Wang,"Bigelow State Park, Connecticut, USA",NA,Amanita muscaria,95.33%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+Bubs (IS01),MMN,230204,,Mt. Vision,Inocybe sp.,Verticilium Dry Bubble,98.52%,230415 Culture Collection Sequencing,Edited seqs,,230415,N
+CC02,1/2 MMN,2022?,,,NA,Lactarius rubidus,100%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+Cenge V1,MMN,2015,Peter Kennedy,"Cedar Creek Ecosystem Science Reserve, Minnesota, USA",NA,Cenococcum geophilum,,,,Kennedy lab calls it Ccg001: AMC fC244,,Y
+Cenge V2,MMN,,,ATCC strain acquired by LB in 2021,NA,Cenococcum geophilum,100%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+Grimmy,1/2 MMN,231118,,Mendocino,NA,Cortinarius violaceus,100.00%,240712 Culture Collection Sequencing,Edited Seqs,,240712,Y
+Halo V2,MMN,230321,Ernest Walker,Acacia Grove UC Davis Arboretume,NA,Peziza varia,99.51%,230415 Culture Collection Sequencing,Edited seqs,,230415,N
+HR22,MMN,230204,Bogar Lab,Mt. Vision,Hydnum repandum,Sarea resinae,99.73%,230415 Culture Collection Sequencing,Edited seqs,,230415,N
+HR24,MMN,230204,Bogar Lab,Mt. Vision,Hydnum repandum,Sydowia polyspora,100%,230415 Culture Collection Sequencing,Edited seqs,,230415,N
+HR31,MMN,230204,Bogar Lab,Mt. Vision,Hydnum repandum,Umbelopsis isabellina,100%,230415 Culture Collection Sequencing,Edited seqs,,230415,N
+Hyabi,1/2 MMN,2021?,From Peter Kennedy,,NA,Hyaloscypha bicolor,92.19%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+LA02,1/2 MMN,2022?,,,Lactarius alnicola,Lactarius aff. alnicola,100%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+LA04,1/2 MMN,2022?,,,Lactarius alnicola,Lactarius aff. alnicola,99.78%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+LacbV1,MMN,1976,Unknown (could look up),"Crater Lake National Park, Oregon, USA",NA,Laccaria bicolor,99.26%,230415 Culture Collection Sequencing,Edited seqs,"Acquired from Michael Van Nuland in 2020, strain S238N",230415,Y
+LacbV2,MMN,,,ATCC strain acquired by LB in 2021,NA,Laccaria bicolor,100%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+LR01,1/2 MMN,2022?,,,Lactarius rubrilacteus,Lactarius deliciosus,99.85%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+LR03,1/2 MMN,2022?,,,Lactarius rubrilacteus,Lactarius rubrilacteus,99.84%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+LR06,1/2 MMN,2022?,,,Lactarius rubrilacteus,Lactarius rubrilacteus,100%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+LR07,1/2 MMN,231118,,Mendocino Foray,Lactarius rubrilacteus,,,240712 Culture Collection Sequencing,Edited Seqs,,240712,Y
+LU04,MMN,230204,Bogar Lab,Mt. Vision,NA,Tyrannosorus pini-sylvestris,97.87%,230415 Culture Collection Sequencing,Edited seqs,,230415,N
+MR02,MMN,240324,Ernest Walker,"Volcanoes National Park Crater, Hawaii",Morchella sp.,,,,,,,N
+PA01,MMN,231009,Ernest Walker,Acacia Grove UC Davis Arboretume,Pisolithus arhizus,Pisolithus tinctorius,93.62%,,,,240104,Y
+PA02,MMN,231009,Ernest Walker,Acacia Grove UC Davis Arboretume,Pisolithus arhizus,Pisolithus tinctorus,99.48%,240712 Culture Collection Sequencing,Edited Seqs,,240712,Y
+PA03,MMN,231009,Ernest Walker,Acacia Grove UC Davis Arboretume,Pisolithus arhizus,Pisolithus tinctorius,99.80%,,,,240104,Y
+Paxin,MMN,1995,Unknown (could look up),"Penicuik, Scotland, UK",NA,Paxillus involutus,95.94%,230415 Culture Collection Sequencing,Edited seqs,"Received from Michael Van Nuland in 2020, strain ATCC 200175",230415,Y
+RP05,MMN,231118,,Mendocino Foray either beans or mush corn,Rhizopogon parksii,Rhizopogon idahoensis,99.72%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+RP06,MMN,231118,,Mendocino Foray either beans or mush corn,Rhizopogon parksii,Rhizopogon idahoensis,98.37,,,,240104,Y
+RP07,MMN,231118,,Mendocino Foray either beans or mush corn,Rhizopogon parksii,Rhizopogon idahoensis,98.01,,,,240104,Y
+RS05,1/2 MMN,231119,Ernest Walker,Chantrelle Ridge,Rhizopogon sp.,,,240712 Culture Collection Sequencing,Edited Seqs,,240712,Y
+RZ02,MMN,2022,Noah Segal,Noah Seigal,Rhizopogon sp.,Rhizopogon Evadens,84.52%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+RZ04,MMN,2022,Noah Segal,Noah Seigal,Rhizopogon sp.,Rhizopogon evadens,99.78%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+RZ13,MMN,2022,Noah Segal,Noah Seigal,Rhizopogon sp.,Rhizopogon evadens,99.45%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+RZ18,MMN,2022,Noah Segal,Noah Seigal,Rhizopogon sp.,Rhizopogon evadens,99.45%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+RZ28,MMN,231118,,Mendocino Foray either beans or mush corn,Rhizopogon sp.,Rhizopogon occidentalis,93.58,240712 Culture Collection Sequencing,Edited Seqs,,240712,Y
+SC04,MMN,231010,Laura?,Oregon,Suillus caerulescens,,99.84,240712 Culture Collection Sequencing,Edited Seqs,,240712,Y
+SD01,MMN,231118,,Mendocino Foray either beans or mush corn,Suillus ponderosus,Suillus Caerulescens,99.38,240712 Culture Collection Sequencing,Edited Seqs,,240712,Y
+SD03,MMN,231118,,Mendocino Foray either beans or mush corn,Suillus ponderosus,,,240712 Culture Collection Sequencing,Edited Seqs,,240712,Y
+SL01,MMN,2022,,Mendocino Foray,Suillus lakei,Suillus ponderosus,100%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+SL02,MMN,2022,,Mendocino Foray,Suillus lakei,Suillus ponderosus,100%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+SL03,MMN,2022,,Mendocino Foray,Suillus lakei,Suillus ponderosus,100%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+SL04,MMN,2022,,Mendocino Foray,Suillus lakei,Suillus lakei,99.50%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+SL05,MMN,2022,,Mendocino Foray,Suillus lakei,Suillus caerulescens,99.37%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+SL06,MMN,2022,,Mendocino Foray,Suillus lakei,Suillus caerulescens,99.84%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+SL08,MMN,231010,Laura?,Oregon,Suillus lakei,Suillus lakei,99.45%,,,,240104,Y
+SL10,MMN,231010,Laura?,Oregon,Suillus lakei,Suillus lakei,99.64%,,,,240104,Y
+SL15,MMN,231118,,Mendocino Foray either beans or mush corn,Suillus lakei,Suillus Lakei,99.69%,240712 Culture Collection Sequencing,Edited Seqs,,240712,Y
+SL17,MMN,231118,,Mendocino Foray either beans or mush corn,Suillus lakei,Suillus Lakei,99.69%,240712 Culture Collection Sequencing,Edited Seqs,,240712,Y
+SLOG,MMN,231010,Laura?,Oregon,Suillus lakei,Suillus Caerulescens,99.85%,240712 Culture Collection Sequencing,Edited Seqs,,240712,Y
+SP07,MMN,,,,Suillus pungens,Suillus pungens,99.21%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+SP08,MMN,230204,Bogar Lab,"Mt. Vision,",Suillus pungens,Suillus pungens,98.93%,230415 Culture Collection Sequencing,Edited seqs,blue cap,230415,Y
+Sphabr,MMN,2021?,"Sent by Gian ""Niko"" Benucci",,NA,Sphaerosporella brunnea,99.54%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+ST01,MMN,230204,,,Suillus tomentosus,Suillus tomentosus,99.02%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+Suilla,MMN,2021?,Peter Kennedy (need to email for details),,NA,Suillus lakei,100%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+Ursula,1/2 MMN,231118,Ernest Walker,Mendocino Foray either beans or mush corn,NA,Cortinarius violaceus,100%,230415 Culture Collection Sequencing,Edited seqs,,230415,Y
+MR01,MMN,230505,Ernest Walker/Demorie Galarza,Robbins Hall,Morchella cf. rufobrunnea,,,,,,,N
+Coco,truncocolumella citrina ,241107,"Jackson Demonstration State Forest, Mendocino County",Dean Lyons,241105,"""They were from two genetic individuals, less than a mile apart. I was busy collecting for FUNDIS and was a bit distracted so I didn’t separate them out.""",iNaturalist entry 250656555,https://www.inaturalist.org/observations/250656555,,,,
+SL19,MMN,241123,Unknown,Mendocino Foray,Suillus cf. ponderosus/caerulescens,,,,,,,Y
+SL20,MMN,241123,Unknown,Mendocino Foray,Suillus ponderosus,,,,,,,Y
+SL21,MMN,241123,Unknown,Mendocino Foray,Suillus lakei,,,,,Maybe mature,,Y
+PA07,MMN,June,Ernest Walker,IFG,Pisolithus tinctorus,,,,,,,
+SL23,MMN,241123,Unknown,Mendocino Foray,Suillus lakei,,,,,,,Y
+RP10,,241120,NOah Siegal,,,Graduate?,,,,,,
+SL25,MMN,241123,Unknown,Mendocino Foray,Suillus fuscotomentosus,,,,,,,Y
+SL26,MMN,241123,Unknown,Mendocino Foray,Suillus ponderosus,,,,,2 caps,,Y
+SL28,MMN,241123,Unknown,Mendocino Foray,Suillus lakei,,,,,3 caps joined base,,Y
+SL29,MMN,241123,Unknown,Mendocino Foray,Suillus ponderosus,,,,,,,Y
+Penny,MMN,241124,Ernest Walker,Camp One Jackson State,Boletus edulis,,,,,,,Y
+SL32,MMN,241123,Unknown,Mendocino Foray,Suillus caerulescens,,,,,,,Y
+AP02,Amanita pantherina,241123,Mendocino,Mendocino table,Amanita pantherina,,,,,,,
+RZ34,MMN,241123,Mendocino tables,Mendocino Foray,Rhizopogon Occidentalis,,,,,,,Y
+LA09,1/2 MMN,240823,Ernest Walker,"Madera Canyon, Arizona",Lactarius Alnicola,,,,,Growing but needs time and needs to be sequenced,,
+LS01,2-Jan,,,,,,,,,,,
+Shelley,MMN,,Ernest Walker,UC Davis Arboretum,Oyster,,,,,,,
+RP09,,241120,Noah Siegal,,,Graduate?,,,,,,
+Ella,truncocolumella citrina ,241105,"Jackson Demonstration State Forest, Mendocino County",Dean Lyons,truncocolumella citrina ,"""They were from two genetic individuals, less than a mile apart. I was busy collecting for FUNDIS and was a bit distracted so I didn’t separate them out.""",iNaturalist entry 250656555,https://www.inaturalist.org/observations/250656555,,,,
+Trina,truncocolumella citrina ,241105,"Jackson Demonstration State Forest, Mendocino County",Dean Lyons,truncocolumella citrina ,"""They were from two genetic individuals, less than a mile apart. I was busy collecting for FUNDIS and was a bit distracted so I didn’t separate them out.""",iNaturalist entry 250656555,https://www.inaturalist.org/observations/250656555,,,,
+Agrios,truncocolumella citrina ,241105,"Jackson Demonstration State Forest, Mendocino County",Dean Lyons,truncocolumella citrina ,"""They were from two genetic individuals, less than a mile apart. I was busy collecting for FUNDIS and was a bit distracted so I didn’t separate them out.""",iNaturalist entry 250656555,https://www.inaturalist.org/observations/250656555,,,,
+LS05,,,,,,,,,,,,
+AM02,Amanita muscaria,241202,Mendocino,,,,,,,,,
+AM05,Amanita muscaria,241202,Mendocino,Ernest Walker,,Graduate?,,,,,,
+LS05,Lactarius sp.,241206,,Ernest Walker,241123,Chocolate cap,,,,,,

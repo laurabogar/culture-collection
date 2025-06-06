@@ -2,7 +2,9 @@
 title: "Calculating plates needed for culture collection processing"
 author: "Laura Bogar"
 date: "2025-06-04"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -19,7 +21,7 @@ When available, we will culture directly from the plates that have been stored a
 library("tidyverse")
 
 index = read_csv("data/Bogar Lab Culture Collection Index - Index.csv")
-cold = read_csv("data/Bogar Lab Culture Collection Index - Index.csv")
+cold = read_csv("data/cold_storage.csv")
 warm = read_csv("data/warm_storage.csv")
 notcoldyet = read_csv("data/not_represented_in_cold_storage.csv")
 ```
@@ -27,16 +29,50 @@ Anna very kindly put together the list of strains that are not yet in cold stora
 
 We ALSO need to extract DNA from all the cultures that currently lack a molecular ID. We should not have any of these, but we seem to have lost track of the sequence data for a bunch of fungi.
 
-```{r plates needed}
-coldEMF = subset(cold, cold$`Ectomycorhizzal?` == "Y" | cold$`Ectomycorhizzal?` == "M")
-length(unique(coldEMF$`Strain ID`))
-cold_toreculture = sort(unique(coldEMF$`Strain ID`)) 
+```{r plates needed, echo=FALSE}
+cold$Box = as.character(cold$Box)
+cold$ID = str_to_upper(cold$ID)
+coldEMF = subset(cold, cold$Ectomycorrhizal == "Y" | cold$Ectomycorrhizal == "M")
+cold_number = length(unique(coldEMF$ID)) #30
+cold_toreculture = sort(unique(coldEMF$ID)) 
+
+notcoldyetEMF = subset(notcoldyet, notcoldyet$Ectomycorrhizal == "Y" | notcoldyet$Ectomycorrhizal == "M")
+notcoldyetEMF = notcoldyetEMF[!notcoldyetEMF$ID %in% coldEMF$ID,]
+# Anna's original sort seems to have left some overlapping IDs
+# between "cold" and "not cold yet." Removing, since we only
+# need to reculture each strain from EITHER cold OR warm condition.
+
+notcoldyet_number = length(unique(notcoldyetEMF$ID)) #51
+notcoldyet_toreculture = sort(unique(notcoldyetEMF$ID)) 
+
+
+alltogether = bind_rows(notcoldyetEMF, coldEMF)
+alltogether_number = length(unique(alltogether$ID)) #81 total
+
+alltogether_sorted = arrange(alltogether, by = "ID")
+
+print(paste("We must reculture", cold_number, "cold cultures and", notcoldyet_number, "warm cultures, for a total of", alltogether_number, "cultures."))
+
+plates_per_strain = 3
+totalplates = plates_per_strain * alltogether_number
+
+print(paste("Based on that, if we want", plates_per_strain, 
+            "plates per strain, then we need to make", totalplates,
+            "MMN plates for this reculturing effort."))
 
 ```
-We have 59 EMF strains to reculture
+We have 81 EMF strains to reculture. If we need 3 plates of each strain (I know I'm going to contaminate some of them), we need 243 MMN plates. This is a lot! Would be 6.075L MMN if using the big plates (40 plates per L). Could we use small plates? Mmmm... I'd rather stick with big ones for long term storage if we can.
 
 ```{r DNA extractions needed}
+needDNA = alltogether[is.na(alltogether$`Molecular ID`),]
+length(unique(needDNA$ID)) # at least 36 cultures need molecular ID. 
 
+```
+In addition to pouring 243 MMN plates (100mm), we should fill 36 PCR tubes (5 strips) with 20µL extraction solution and label each uniquely, and print a table to fill as we go so we know which culture is in which extraction.
 
+It's easier to make plates in multiples of 40. I'll start by making 6L (240 plates, aka 12 sleeves) of MMN and see how far that takes use. Could also consider 4-5L MMN and 1-2L PDA to see if that's better for the slow growing cultures.
+
+```{r generating checklists}
+write_csv(alltogether_sorted, "listforculturing.csv")
 ```
 

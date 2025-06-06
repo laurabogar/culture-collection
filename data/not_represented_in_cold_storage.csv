@@ -1,0 +1,110 @@
+,ID,Box,reculture_date,useable_27May2025,notes_27May2025,storage_type,Molecular ID,Ectomycorrhizal
+1,AGRIOS,5,241205,yes,NA,cabinet,"""They were from two genetic individuals, less than a mile apart. I was busy collecting for FUNDIS and was a bit distracted so I didn’t separate them out.""",Y
+2,AGRIOS,7,250109,yes,NA,incubator,"""They were from two genetic individuals, less than a mile apart. I was busy collecting for FUNDIS and was a bit distracted so I didn’t separate them out.""",Y
+3,AM02,17,NA,yes,NA,cabinet,NA,M
+4,AM02,7,250109,yes,NA,incubator,NA,M
+5,AM05,7,250109,yes,NA,incubator,Graduate?,M
+6,AM05,17,NA,yes,NA,cabinet,Graduate?,M
+11,AMAMU3,NA,NA,yes,none,mysterybox,NA,Y
+12,AP02,19,250109,yes,"""fine I guess, don't know what that is""",incubator,NA,M
+13,AP02,intake box,never,missing,none,intake,NA,M
+14,AP03,intake box,never,missing,none,intake,NA,M
+15,AP04,intake box,never,missing,none,intake,NA,M
+16,BUBS,18,NA,yes,"""non ecto"" box",incubator,NA,N
+17,CC02,10,241204,dead,NA,incubator,Lactarius rubidus,Y
+18,CC02,1,241204,yes,NA,cabinet,Lactarius rubidus,Y
+23,COCO,5,241205,yes,NA,cabinet,"""They were from two genetic individuals, less than a mile apart. I was busy collecting for FUNDIS and was a bit distracted so I didn’t separate them out.""",Y
+24,COCO,19,250109,not useable,"suffering, might not be viable",incubator,"""They were from two genetic individuals, less than a mile apart. I was busy collecting for FUNDIS and was a bit distracted so I didn’t separate them out.""",Y
+25,ELLA,5,241205,yes,NA,cabinet,"""They were from two genetic individuals, less than a mile apart. I was busy collecting for FUNDIS and was a bit distracted so I didn’t separate them out.""",Y
+26,ELLA,7,250109,not useable,NA,incubator,"""They were from two genetic individuals, less than a mile apart. I was busy collecting for FUNDIS and was a bit distracted so I didn’t separate them out.""",Y
+27,ERN,18,NA,yes,"""non ecto"" box",incubator,NA,M
+28,GRIMMY,13,241212,yes,NA,cabinet,Cortinarius violaceus,Y
+29,GRIMMY,8,241212,yes,NA,incubator,Cortinarius violaceus,Y
+30,GRIMMY,NA,NA,yes,none,mysterybox,NA,Y
+31,HALO V2,18,NA,yes,"""non ecto"" box",incubator,NA,N
+32,HR24,18,NA,yes,"""non ecto"" box",incubator,Sydowia polyspora,N
+33,HR24,18,NA,yes,"""non ecto"" box",incubator,Sydowia polyspora,N
+40,LA04,10,241204,yes,NA,incubator,Lactarius aff. alnicola,Y
+41,LA04,3,? found here during 27May2025 inventory,yes,"""4-3""",cabinet,Lactarius aff. alnicola,Y
+42,LA09,1,241204,yes,NA,cabinet,NA,M
+43,LA09,10,241204,yes,NA,incubator,NA,M
+56,LR07,7,250109,not useable,NA,incubator,NA,M
+57,LS01,1,241204,yes,NA,cabinet,NA,M
+58,LS01,10,241204,yes,NA,incubator,NA,M
+59,LS04,10,241204,missing,NA,incubator,NA,M
+60,LS05,19,250109,not useable,has not really grown,incubator,NA,M
+61,LS05,19,250109,not useable,has not really grown,incubator,Chocolate cap,M
+62,LS05,17,NA,no,"some plates, not usable",cabinet,NA,M
+63,LS05,17,NA,no,"some plates, not usable",cabinet,Chocolate cap,M
+66,PA01,9,241211,yes,NA,incubator,Pisolithus tinctorius,Y
+67,PA01,4,241210,yes,NA,cabinet,Pisolithus tinctorius,Y
+68,PA02,8,241212,yes,NA,incubator,Pisolithus tinctorus,Y
+69,PA02,13,241212,yes,NA,cabinet,Pisolithus tinctorus,Y
+70,PA03,9,241211,yes,NA,incubator,Pisolithus tinctorius,Y
+71,PA03,4,241210,yes,NA,cabinet,Pisolithus tinctorius,Y
+72,PA07,4,240919,yes,NA,cabinet,NA,M
+73,PA07,19,250109,yes,NA,incubator,NA,M
+77,PENNY,17,241213,yes,NA,cabinet,NA,M
+78,PENNY,7,250109,yes,NA,incubator,NA,M
+79,RP05,9,241211,yes,NA,incubator,Rhizopogon idahoensis,Y
+80,RP05,4,241210,yes,NA,cabinet,Rhizopogon idahoensis,Y
+81,RP06,9,241211,yes,NA,incubator,Rhizopogon idahoensis,Y
+82,RP06,4,241210,yes,NA,cabinet,Rhizopogon idahoensis,Y
+83,RP07,4,241210,yes,NA,cabinet,Rhizopogon idahoensis,Y
+84,RP07,9,241211,yes,NA,incubator,Rhizopogon idahoensis,Y
+85,RP09,19,250109,not useable (very gross),NA,incubator,Graduate?,M
+86,RP09,4,241205,yes,laura not convinced its rhizopogon,cabinet,Graduate?,M
+87,RP10,19,250109,maybe useable,very contaminated/infected,incubator,Graduate?,M
+88,RP10,17,NA,yes,NA,cabinet,Graduate?,M
+89,RS05,8,241212,yes,NA,incubator,NA,M
+90,RS05,13,241212,yes,NA,cabinet,NA,M
+99,RZ28,8,241212,yes,NA,incubator,Rhizopogon occidentalis,Y
+100,RZ28,13,241212,yes,NA,cabinet,Rhizopogon occidentalis,Y
+101,RZ30,7,250109,not useable,NA,incubator,NA,M
+102,RZ30,17,NA,yes,NA,cabinet,NA,M
+103,RZ34,17,NA,yes,NA,cabinet,NA,M
+104,RZ34,7,250109,yes,NA,incubator,NA,M
+105,SC04,8,241212,yes,some wacky morphology,incubator,NA,M
+106,SC04,13,? found here during 27May2025 inventory,yes,NA,cabinet,NA,M
+107,SD01,8,241212,yes,NA,incubator,Suillus Caerulescens,Y
+108,SD01,NA,NA,yes,none,mysterybox,Suillus Caerulescens,Y
+109,SD01,13,241212,yes,label looks like sp01,cabinet,Suillus Caerulescens,Y
+110,SD03,8,241212,yes,NA,incubator,NA,M
+111,SD03,13,241212,yes,NA,cabinet,NA,M
+112,SHELLEY,18,250109,yes,NA,incubator,NA,M
+116,SL08,9,241211,"used, bad",NA,incubator,Suillus lakei,Y
+117,SL08,4,241210,yes,NA,cabinet,Suillus lakei,Y
+118,SL10,9,241211,"used, bad",NA,incubator,Suillus lakei,Y
+119,SL10,NA,NA,yes,none,mysterybox,Suillus lakei,Y
+120,SL10,4,241210,yes,NA,cabinet,Suillus lakei,Y
+121,SL15,13,241212,yes,NA,cabinet,Suillus Lakei,Y
+122,SL15,8,241212,yes,NA,incubator,Suillus Lakei,Y
+123,SL15,NA,NA,yes,none,mysterybox,Suillus Lakei,Y
+124,SL17,NA,NA,yes,none,mysterybox,Suillus Lakei,Y
+125,SL17,8,241212,yes,found in box 9,incubator,Suillus Lakei,Y
+126,SL17,13,241212,yes,reddish tinting--good news for SL ID,cabinet,Suillus Lakei,Y
+127,SL19,19,250109,not useable,NA,incubator,NA,M
+128,SL20,19,250109,yes,NA,incubator,NA,M
+129,SL21,5,241212,yes,NA,cabinet,NA,M
+130,SL21,7,250109,yes,NA,incubator,NA,M
+131,SL25,17,NA,yes,NA,cabinet,NA,M
+132,SL25,7,250109,yes,NA,incubator,NA,M
+133,SL25,19,250109,yes,"""looks kind of ok""",incubator,NA,M
+134,SL26,7,250109,yes,NA,incubator,NA,M
+135,SL26,17,NA,yes,NA,cabinet,NA,M
+136,SL28,17,NA,yes,NA,cabinet,NA,M
+137,SL29,19,250109,probably not useable,"""slimy and sad""",incubator,NA,M
+138,SL29,17,NA,yes,NA,cabinet,NA,M
+139,SL32,19,250109,yes,NA,incubator,NA,M
+140,SL32,5,241213,yes,NA,cabinet,NA,M
+141,SLO8,NA,NA,yes,none,mysterybox,NA,M
+142,SLOG,13,241212,yes,NA,cabinet,Suillus Caerulescens,Y
+143,SLOG,8,241212,yes,NA,incubator,Suillus Caerulescens,Y
+153,SUILA,9,241210,yes,NA,incubator,NA,M
+154,SUILA,NA,NA,yes,none,mysterybox,NA,M
+156,TM05,intake box,never,not a lot of growth - unclear if it worked,none,intake,NA,M
+157,TM07,intake box,never,not a lot of growth - unclear if it worked,none,intake,NA,M
+158,TRINA,5,241205,yes,NA,cabinet,"""They were from two genetic individuals, less than a mile apart. I was busy collecting for FUNDIS and was a bit distracted so I didn’t separate them out.""",Y
+159,TRINA,19,250109,not useable,NA,incubator,"""They were from two genetic individuals, less than a mile apart. I was busy collecting for FUNDIS and was a bit distracted so I didn’t separate them out.""",Y
+160,URSULA,13,241212,yes,NA,cabinet,Cortinarius violaceus,Y
+161,URSULA,8,241212,yes,NA,incubator,Cortinarius violaceus,Y
